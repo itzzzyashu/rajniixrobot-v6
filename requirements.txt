@@ -93,7 +93,7 @@ sylviorus
 sibylsystem==0.0.18
 odmantic==0.4.0
 spongemock==0.3.4
-Pillow==9.1.0
+Pillow==9.5.0
 CurrencyConverter==0.16.12
 jikanpy==4.3.2
 speedtest-cli==2.1.3
