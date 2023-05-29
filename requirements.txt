@@ -57,7 +57,7 @@ python-rapidjson
 carbonnow
 pretty_errors
 secureme==0.0.4
-telegraph==2.1.0
+telegraph==2.2.0
 emoji==1.7.0
 faker
 zalgo-text==0.6
