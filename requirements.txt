@@ -108,6 +108,6 @@ cachetools==5.0.0
 nekos.py
 selenium
 pendulum
-httpx==0.22.0
+httpx==0.24.1
 httpcore==0.14.7
 httpx[http2]
