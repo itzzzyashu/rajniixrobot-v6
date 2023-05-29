@@ -1,0 +1,22 @@
+{
+      "name": "rajniiroboactive",
+      "logo": "https://telegra.ph/file/cdddd4bdbd05f9d5bc441.jpg",
+      "description": "An Anime themed Telegram group management bot.",
+      "keywords": [
+         "telegram",
+         "anime",
+         "group",
+         "manager",
+         "Rajni",
+         "Rajnii",
+         "RajniiRobot"
+      ],
+   "repository": "https://github.com/itzzzzyashu/rajniiawesome",
+   "env": {
+         "XYZ": {
+               "description": "this is just for sample, how to make app.json to deploy on heroku, here all vars will take config through configuration file.",
+               "required": false,
+               "value": "xyz"
+         }
+   }
+}
