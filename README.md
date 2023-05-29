@@ -8,15 +8,15 @@
 [![Join Support!](https://img.shields.io/badge/Support%20Chat-!-red)](https://telegram.dog/rajniixsupport)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/TeamUltraUnion/rajniixrobot/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/itzzzyashu/rajniixrobot/graphs/contributors/)
 
 <p align="center">
-<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/TeamUltraUnion/rajniixrobot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/TeamUltraUnion/rajniixrobot" /> </a>
-<a href="https://github.com/TeamUltraUnion/rajniixrobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/TeamUltraUnion/rajniixrobot?style=flat&logo=github" /> </a>
-<a href="https://github.com/TeamUltraUnion/rajniixrobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/TeamUltraUnion/rajniixrobot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/TeamUltraUnion/rajniixrobot?color=success" /> </a>
-<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/TeamUltraUnion/rajniixrobot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/itzzzyashu/rajniixrobot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/itzzzyashu/rajniixrobot" /> </a>
+<a href="https://github.com/TeamUltraUnion/rajniixrobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/itzzzyashu/rajniixrobot-v6?style=flat&logo=github" /> </a>
+<a href="https://github.com/TeamUltraUnion/rajniixrobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/itzzzyashu/rajniixrobot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/itzzzyashu/rajniixrobot?color=success" /> </a>
+<a href="https://github.com/TeamUltraUnion/rajniixrobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/itzzzyashu/rajniixrobot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 
 <p align="center">
